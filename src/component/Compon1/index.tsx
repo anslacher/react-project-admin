@@ -4,7 +4,7 @@ import styles from "./styles.module.scss"
 
 export const Component = () => {
     return (
-        <div className={styles.box}>
+        <div className={styles.myClass}>
             css组件测试
         </div>
     )
